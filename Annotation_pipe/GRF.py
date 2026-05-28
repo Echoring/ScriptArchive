@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Usage: python GRF.py <genome file> <gff3 file> <min pep length> <outfile prefix> [--rename-expr RENAME_EXPR] [--skip-filters]
+# Usage: python GRF.py <genome file> <gff3 file> <outfile prefix> [--min_pep_length X] [--rename-expr f-string] [--skip-filters]
 # rename Expr: a python expression to rename gene id, available variables: genecount, geneobject:
 # e.g. "f'Avadeh1c{geneobject.chrom[3:5]}g{str(genecount).zfill(5)}'"
 # if not provided, gene and transcript id will be kept as original.
