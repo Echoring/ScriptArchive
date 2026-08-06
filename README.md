@@ -5,4 +5,4 @@ Scripts are deposited in respective branches separated by publication, instead o
 
 - Script for "Allelic structural variation at the NLR25-1 locus enhances defense against Pseudomonas syringae in kiwifruit" (https://doi.org/10.1186/s13059-026-04068-0): https://github.com/Echoring/ScriptArchive/tree/pan-F1
 
-- Script for "Promoting genome annotation with a newly developed software Intron Correction Utility (ICU) in Actinidia ssp." (unpublished): https://github.com/Echoring/ScriptArchive/tree/ICU
+- Script for "Update of seven reference genome annotations and three de novo polyploid assemblies in Actinidia species" (unpublished): https://github.com/Echoring/ScriptArchive/tree/ICU
